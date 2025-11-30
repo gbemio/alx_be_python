@@ -1,5 +1,3 @@
-# library_management.py
-
 class Book:
     """Represents a book with title, author, and availability status."""
 
